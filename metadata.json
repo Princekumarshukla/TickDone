@@ -1,0 +1,6 @@
+{
+  "name": "TickDone",
+  "description": "Daily task manager with automated reminders, time scheduling, and smart notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
